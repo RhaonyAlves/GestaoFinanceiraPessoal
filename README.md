@@ -5,17 +5,31 @@
 ![Version](https://img.shields.io/badge/version-1.0.0--MVP-orange)
 ![Coverage](https://img.shields.io/badge/coverage-100%25-green)
 
-O **FinFlow** é uma solução mobile e web desenvolvida para revolucionar o controle e a organização das finanças pessoais. O aplicativo permite o registo eficiente de receitas e despesas, categorização de gastos, definição de orçamentos mensais, conciliação bancária e exibição de relatórios analíticos de desempenho financeiro.
+## 📋 Gestão Financeira Pessoal - FinFlow
+
+Projeto: Gestão Financeira Pessoal (Organização Financeira)
+Identificação: Rhaony Alves
+Descriação do projeto
+
+O FinFlow é um aplicativo de gestão financeira pessoal concebido para resolver o descontrole de gastos diários enfrentado por pessoas físicas. A solução permite centralizar em um só lugar as contas bancárias, cartões de crédito, receitas e despesas, eliminando a dependência de planilhas complexas ou anotações manuais. Com uma interface focada na agilidade de uso, o sistema oferece categorização simples de transações, criação de orçamentos por categoria com alertas preventivos de limite e painéis visuais sobre o fluxo de caixa. O aplicativo busca capacitar o usuário a tomar decisões financeiras mais conscientes e atingir suas metas de economia de forma descomplicada.
+
+## 🎯 Problemas do Público Alvo
+Qual é o problema identificado?
+A falta de previsibilidade, acompanhamento diário e controle sobre as receitas e despesas pessoais.
+Quem enfrenta esse problema?
+Pessoas físicas, estudantes e jovens profissionais que tentam gerenciar seus orçamentos mensais individualmente.
+Como esse problema é resolvido atualmente?
+O problema é abordado por meio de anotações soltas, planilhas manuais complexas ou consultas pontuais diretamente nos aplicativos de múltiplos bancos.
+Quais dificuldades existem no processo atual?
+Esquecimento frequente do registro de pequenas despesas, atraso no pagamento de faturas/contas por falta de lembretes, falta de visão clara de gastos por categoria e falta de alertas antes do estouro do limite do orçamento.
+
+## 🎯 A Solução
+O FinFlow é uma aplicação mobile e web focada na gestão financeira pessoal. Ele centraliza o registro de receitas e despesas, permite a categorização automática ou manual de gastos, organiza limites de orçamento com alertas e possibilita a definição e acompanhamento de metas financeiras através de dashboards simples e intuitivos.
+Objetivo geral do sistema: Proporcionar uma experiência fluida para que o usuário pessoa física consiga organizar suas finanças diárias em poucos segundos, garantindo previsibilidade de orçamento e apoio no alcance de metas de economia.
+Público-alvo: Pessoas físicas que buscam simplicidade e agilidade para controlar suas finanças diárias.
+Principais benefícios esperados: Redução de gastos impulsivos, prevenção do atraso de contas por falta de notificação, clareza sobre o destino do dinheiro e maior facilidade para criar reservas financeiras.
 
 ---
-
-## 🎯 O Problema & A Solução
-
-* **O Problema:** A falta de previsibilidade e controle sobre gastos pessoais afeta a maioria das pessoas físicas, gerando endividamento, descontrolo orçamental e incapacidade de poupar.
-* **A Solução:** O **FinFlow** oferece uma interface fluida e intuitiva com automações de lançamentos, alertas preventivos de orçamento e sincronização com instituições financeiras.
-
----
-
 ## ✨ Principais Funcionalidades
 
 - 🔐 **Autenticação Segura:** Login por e-mail, redes sociais e biometria (FaceID/TouchID) com suporte a 2FA.
