@@ -5,12 +5,10 @@
 ![Version](https://img.shields.io/badge/version-1.0.0--MVP-orange)
 ![Coverage](https://img.shields.io/badge/coverage-100%25-green)
 
-## 📋 Gestão Financeira Pessoal - FinFlow
+**Projeto: Gestão Financeira Pessoal (Organização Financeira)
+Identificação: Rhaony Alves**
 
-Projeto: Gestão Financeira Pessoal (Organização Financeira)
-Identificação: Rhaony Alves
-Descriação do projeto
-
+## 📋 Descriação do projeto
 O FinFlow é um aplicativo de gestão financeira pessoal concebido para resolver o descontrole de gastos diários enfrentado por pessoas físicas. A solução permite centralizar em um só lugar as contas bancárias, cartões de crédito, receitas e despesas, eliminando a dependência de planilhas complexas ou anotações manuais. Com uma interface focada na agilidade de uso, o sistema oferece categorização simples de transações, criação de orçamentos por categoria com alertas preventivos de limite e painéis visuais sobre o fluxo de caixa. O aplicativo busca capacitar o usuário a tomar decisões financeiras mais conscientes e atingir suas metas de economia de forma descomplicada.
 
 ## 🎯 Problemas do Público Alvo
